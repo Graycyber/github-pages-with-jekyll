@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog: Talking about my journey in Cybersecurity"
+title: "Talking about my journey in Cybersecurity"
 date: 2022-07-20
 ---
 Hello all,
